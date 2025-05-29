@@ -1,22 +1,20 @@
-# 👋 Hi, I'm Adrianz003!
+# Hi, I'm Adrianz003!
 
-## 👨‍💻 Computer Systems Engineering Student | Smart Technologies Enthusiast
+## Computer Systems Engineering Student | Smart Technologies Enthusiast
 
 Welcome to my GitHub profile! I'm a passionate Computer Systems Engineering student focused on Smart Technologies. I enjoy collaborating with others, building practical solutions, and constantly expanding my skillset.
 
 ---
 
-### 💡 About Me
-
-- 🎓 Currently pursuing a degree in Computer Systems Engineering
-- 🔬 Specializing in Smart Technologies and IoT
-- 🤝 Eager to learn, work in teams, and contribute to innovative projects
-- 😊 Known for my positive attitude and willingness to help others
+### About Me
+- Currently pursuing a degree in Computer Systems Engineering
+- Specializing in Smart Technologies and IoT
+- Eager to learn, work in teams, and contribute to innovative projects
+- Known for my positive attitude and willingness to help others
 
 ---
 
-### 🛠️ Technical Skills
-
+###  Technical Skills
 **Operating Systems:**  
 - Windows  
 - Linux (Partial)
@@ -39,12 +37,12 @@ Welcome to my GitHub profile! I'm a passionate Computer Systems Engineering stud
 
 ---
 
-### 🚀 Featured Projects
+### Projects
 
-#### 📁 Employees and Payroll Management System (Sistema FHM)
+#### Employees and Payroll Management System (Sistema FHM)
 A robust system designed for efficient employee and payroll management.
 
-#### 🔥 Fire Detection and Extinction System (Proyecto IOT)
+#### Fire Detection and Extinction System (Proyecto IOT)
 An IoT-based project aimed at fire detection and automated response for safety.
 
 ---
@@ -54,7 +52,7 @@ An IoT-based project aimed at fire detection and automated response for safety.
 <!-- Add your social links here if you'd like, for example: -->
 <!-- - [LinkedIn](https://www.linkedin.com/in/yourprofile) -->
 <!-- - [Twitter](https://twitter.com/yourhandle) -->
-<!-- - [Personal Website](https://yourwebsite.com) -->
+ [Mail](zavalaruvaladrian@gmail.com) 
 
 ---
 
