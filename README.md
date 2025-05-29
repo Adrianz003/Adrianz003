@@ -1,4 +1,4 @@
-# Hi, I'm Adrianz003!
+# 😁 Hi, I'm Adrianz003!
 
 ## Computer Systems Engineering Student | Smart Technologies Enthusiast
 
