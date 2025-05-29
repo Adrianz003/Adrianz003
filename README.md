@@ -38,12 +38,11 @@ Welcome to my GitHub profile! I'm a passionate Computer Systems Engineering stud
 ---
 
 ### Projects
-#### - Employees and Payroll Management System (Sistema FHM)
+#### - [Employees and Payroll Management System (Sistema FHM)]
 A robust system designed for efficient employee and payroll management.
 
-#### - Fire Detection and Extinction System (Proyecto IOT)
+#### - [Fire Detection and Extinction System (Proyecto IOT)](https://github.com/Adrianz003/proyecto)
 An IoT-based project aimed at fire detection and automated response for safety.
-
 ---
 
 ### 📫 Let's Connect!
