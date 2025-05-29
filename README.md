@@ -44,9 +44,9 @@ An IoT-based project aimed at fire detection and automated response for safety.
 ### 📫 Let's Connect!
 
 <!-- Add your social links here if you'd like, for example: -->
-<!-- - [LinkedIn](https://www.linkedin.com/in/yourprofile) -->
+ [LinkedIn](www.linkedin.com/in/adrian-zavala-406259325)
 <!-- - [Twitter](https://twitter.com/yourhandle) -->
- [ E - Mail ✉](zavalaruvaladrian@gmail.com) 
+ [ E-Mail ✉](zavalaruvaladrian@gmail.com) 
  
 
 ---
