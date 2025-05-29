@@ -46,7 +46,8 @@ An IoT-based project aimed at fire detection and automated response for safety.
 <!-- Add your social links here if you'd like, for example: -->
 <!-- - [LinkedIn](https://www.linkedin.com/in/yourprofile) -->
 <!-- - [Twitter](https://twitter.com/yourhandle) -->
- [Mail](zavalaruvaladrian@gmail.com) 
+ [ E - Mail ✉](zavalaruvaladrian@gmail.com) 
+ 
 
 ---
 
