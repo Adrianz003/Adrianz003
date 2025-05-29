@@ -3,10 +3,6 @@
 ## Computer Systems Engineering Student | Smart Technologies Enthusiast
 
 Welcome to my GitHub profile! I'm a passionate Computer Systems Engineering student focused on Smart Technologies. I enjoy collaborating with others, building practical solutions, and constantly expanding my skillset.
-
----
-
-### About Me
 - Currently pursuing a degree in Computer Systems Engineering
 - Specializing in Smart Technologies and IoT
 - Eager to learn, work in teams, and contribute to innovative projects
